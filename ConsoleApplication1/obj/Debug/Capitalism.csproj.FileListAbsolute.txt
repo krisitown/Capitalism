@@ -1,0 +1,6 @@
+C:\Users\User1\Documents\Visual Studio 2013\Projects\ExamPreparation\OOP_Exam\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User1\Documents\Visual Studio 2013\Projects\ExamPreparation\OOP_Exam\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User1\Documents\Visual Studio 2013\Projects\ExamPreparation\OOP_Exam\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User1\Documents\Visual Studio 2013\Projects\ExamPreparation\OOP_Exam\ConsoleApplication1\ConsoleApplication1\obj\Debug\Capitalism.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Visual Studio 2013\Projects\ExamPreparation\OOP_Exam\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User1\Documents\Visual Studio 2013\Projects\ExamPreparation\OOP_Exam\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
